@@ -19,7 +19,13 @@ if __FILE__ == $0
               1234567890 
               $3cret1ve
               1bqp0k4,$334%4mmzlp00 
-              f00lzpr1d3 }
+              f00lzpr1d3 
+              c00ln3ss 
+              b0oti3s 
+              setecastronomy
+              mysocratesnote 
+              toomanysecrets }
+  
       
 
   results = words.inject({:good => {}, :bad => {}}) do |memo,word|
